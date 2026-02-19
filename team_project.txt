@@ -1,3 +1,7 @@
 Team Project
 Version 1.0
+<<<<<<< HEAD
 Feature A implemented
+=======
+Feature B implemented
+>>>>>>> origin/main
